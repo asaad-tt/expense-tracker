@@ -13,7 +13,7 @@ const obj = [
   },
   {
     type: "Expense",
-    color: "#f9c74f",
+    color: "rgb(54, 162, 235)",
     percent: 10,
   },
 ];
